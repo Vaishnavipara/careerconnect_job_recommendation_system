@@ -7,7 +7,7 @@
 
 **AI-powered resume analyzer and job matching system** developed during internship at InfoTact. Transforms resumes into personalized career opportunities with market insights.
 
-![CareerConnect Demo]([https://via.placeholder.com/800x400?text=CareerConnect+Demo+GIF/Screenshot](https://drive.google.com/file/d/1Dayk6Jg_Ui9r4ekS4S_7TBGY2P7dXLeN/view?usp=sharing)) *(Replace with actual demo gif/screenshot)*
+![CareerConnect Demo](https://drive.google.com/file/d/1Dayk6Jg_Ui9r4ekS4S_7TBGY2P7dXLeN/view?usp=sharing)
 
 ## ✨ Features
 
