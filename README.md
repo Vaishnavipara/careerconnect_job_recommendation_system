@@ -1,5 +1,5 @@
 # careerconnect_job_recommendation_system
-# <img src="https://via.placeholder.com/40x40?text=CC" width="30"/> CareerConnect 
+
 
 [![Python](https://img.shields.io/badge/Python-3.8+-blue?logo=python)](https://python.org)
 [![Flask](https://img.shields.io/badge/Flask-2.0+-000000?logo=flask)](https://flask.palletsprojects.com/)
@@ -43,6 +43,13 @@
 - pip package manager
 - JSearch API key
 
+### 🤝 Team & Acknowledgments
+Developer: Vaishnavi Parab
+
+Mentors: InfoTact Team
+
+Special Thanks: JSearch API for providing job market data
+
 ### Installation
 ```bash
 # Clone the repository
@@ -60,9 +67,4 @@ pip install -r requirements.txt
 cp .env.example .env
 # Edit .env with your credentials
 
-🤝 Team & Acknowledgments
-Developer: Vaishnavi Parab
 
-Mentors: InfoTact Team
-
-Special Thanks: JSearch API for providing job market data
